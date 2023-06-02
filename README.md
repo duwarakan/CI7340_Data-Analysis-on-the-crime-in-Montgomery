@@ -7,6 +7,9 @@ showing the final visualisations of this data. The results of this analysis shou
 helping the Montgomery police departments' day-to-day operations.<br />
 
 ## Technologies and Viusalisation libraries used:
-Python
-Seaborn
-Matplotlib
+Python<br />
+Seaborn<br />
+Matplotlib<br />
+
+This dataset is taken from kaggle.<br />
+https://www.kaggle.com/datasets/jgiigii/uscrimesdataset
